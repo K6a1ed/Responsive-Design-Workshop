@@ -2,7 +2,7 @@
 
 **Maintainer**: [@MohammedYehia](https://github.com/MohammedYehia)
 
-###demo : https://amjed-98.github.io/Responsive-Design-Workshop/
+*live preview : https://amjed-98.github.io/Responsive-Design-Workshop/
 
 # Welcome To The Responsive Design Workshop!
 This workshop is designed for **helping you out with understanding responsive design** and how to apply it in action using **relative units**, **media queries** and **responsive images** in CSS, throughout the workshop, you will learn about these things and in the end, there will be some helpful **exercise** so you can practice them in a good way.
